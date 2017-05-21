@@ -1,6 +1,6 @@
 {
   "name": "vue-instant-bootstrap-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bootstrap modal component for use with awesome Vue",
   "author": "Adhe Widianjaya <adwidianjaya@gmail.com>",
   "private": false,
